@@ -10,7 +10,7 @@ Here u can find all repos of th sources of our kernels provided in the Proton+ c
  - **Galaxy S21 (o1s)** [Source](https://github.com/ProtonKernel/Proton) [XDA](https://xdaforums.com/t/kernel-exynos2100-proton-kernel.4744978/)    
  - **Galaxy S21+ (t2s)** [Source](https://github.com/ProtonKernel/Proton) [XDA](https://xdaforums.com/t/kernel-exynos2100-proton-kernel.4744978/)    
  - **Galaxy S21 Ultra (p3s)** [Source](https://github.com/ProtonKernel/Proton) [XDA](https://xdaforums.com/t/kernel-exynos2100-proton-kernel.4744978/)    
- - **Galaxy A52 (a52q) [Source](https://github.com/ProtonKernel/ProtonForA572Q)    
+ - **Galaxy A52 (a52q)** [Source](https://github.com/ProtonKernel/ProtonForA572Q)    
  - **Galaxy A72 (a72q)** [Source](https://github.com/ProtonKernel/ProtonForA572Q)    
 
 ## Support and News
