@@ -25,5 +25,5 @@ Here you can get all corresponding sources to everything we release on the web.
  - [Elite](https://t.me/EliteGalaxy) Founder
  - [Flopster](https://t.me/Flopster101) Main dev
 
-For more credits check commit authorships since we always try to keep all authorships.
-Thank you for selecting us for your device and enjoy your new ProtonPlus Kernel Powered Device
+Thank you for selecting us for your device and enjoy your new ProtonPlus Kernel Powered Device    
+For more credits check commit authorships since we always try to keep all authorships.    
