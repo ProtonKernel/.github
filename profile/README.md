@@ -1,8 +1,8 @@
 ![ProtonKernel](https://github.com/ProtonKernel/.github/raw/main/profile/banner.png)
 
-# Welcome to the ProtonKernel organization
+# Welcome to the ProtonPlus Kernel organization
 
-Here u can find all repos of th sources of our kernels provided in the Proton+ channel
+Here you can get all corresponding sources to everything we release on the web.
 
 ## Supported devices
 
@@ -15,16 +15,20 @@ Here u can find all repos of th sources of our kernels provided in the Proton+ c
 
 ## Support and News
 
- - [Proton+ Channel](https://t.me/ProtonPlusKernel)
- - [Proton+ Community](https://t.me/ProtonPlusCM)
- - [Proton+ CI](https://t.me/Proton_CI) **¡¡¡TESTING BUILDS AT YOUR OWN RISK!!!**
- - [Proton+ Testing](https://t.me/Proton_testers) **¡¡¡TESTING BUILDS AT YOUR OWN RISK!!!**    
+ - [ProtonPlus Channel](https://t.me/ProtonPlusKernel)
+ - [ProtonPlus Community](https://t.me/ProtonPlusCM)
+ - [ProtonPlus CI](https://t.me/Proton_CI) **¡¡¡TESTING BUILDS AT YOUR OWN RISK!!!**
+ - [ProtonPlus Testing](https://t.me/Proton_testers) **¡¡¡TESTING BUILDS AT YOUR OWN RISK!!!**    
 
 ## Credits
 
- - [Elite](https://t.me/EliteGalaxy) Main dev
+ - [FPSensor](https://t.me/FPSensor) Main dev | Founder
+
+ - Retirated developers:
+
+ - [Elite](https://t.me/EliteGalaxy) Founder
  - [Flopster](https://t.me/Flopster101) Main dev
- - [FPSensor](https://t.me/FPSensor) Main dev
+
 
 Other credits can be found in every github authorship if corresponding
 
